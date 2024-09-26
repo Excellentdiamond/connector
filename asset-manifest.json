@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab378869.css",
+    "main.js": "/static/js/main.f8a5e2c3.js",
+    "static/media/wsm-meme-bg.svg": "/static/media/wsm-meme-bg.991a79890591eff3f7c6.svg",
+    "static/media/meme-2.svg": "/static/media/meme-2.7d78fefa1b550616bce4.svg",
+    "static/media/meme-1.svg": "/static/media/meme-1.9324eea018354b81932d.svg",
+    "index.html": "/index.html",
+    "main.ab378869.css.map": "/static/css/main.ab378869.css.map",
+    "main.f8a5e2c3.js.map": "/static/js/main.f8a5e2c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab378869.css",
+    "static/js/main.f8a5e2c3.js"
+  ]
+}

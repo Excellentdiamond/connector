@@ -1,0 +1,1 @@
+function openDropdown(o){$(o.target).parents(".has-dropdown").toggleClass("dropdown-open").children("a").toggleClass("link-active")}$(document).ready((function(){$(".has-dropdown > a").live("click",openDropdown);var o=$("html");$.browser.msie?o.addClass("msie"):$.browser.opera&&o.addClass("opera")}));
